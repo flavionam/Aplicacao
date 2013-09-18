@@ -1,0 +1,5 @@
+C:\Flavio\Projetos\ProblemApplication\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Flavio\Projetos\ProblemApplication\Util\bin\Debug\Util.dll
+C:\Flavio\Projetos\ProblemApplication\Util\bin\Debug\Util.pdb
+C:\Flavio\Projetos\ProblemApplication\Util\obj\Debug\Util.dll
+C:\Flavio\Projetos\ProblemApplication\Util\obj\Debug\Util.pdb

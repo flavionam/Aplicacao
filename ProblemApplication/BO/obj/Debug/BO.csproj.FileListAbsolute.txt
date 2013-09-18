@@ -1,0 +1,11 @@
+C:\Flavio\Projetos\ProblemApplication\BO\bin\Debug\BO.dll
+C:\Flavio\Projetos\ProblemApplication\BO\bin\Debug\BO.pdb
+C:\Flavio\Projetos\ProblemApplication\BO\obj\Debug\ResolveAssemblyReference.cache
+C:\Flavio\Projetos\ProblemApplication\BO\obj\Debug\BO.dll
+C:\Flavio\Projetos\ProblemApplication\BO\obj\Debug\BO.pdb
+C:\Flavio\Projetos\ProblemApplication\BO\bin\Debug\DAL.dll
+C:\Flavio\Projetos\ProblemApplication\BO\bin\Debug\EntityFramework.dll
+C:\Flavio\Projetos\ProblemApplication\BO\bin\Debug\DAL.pdb
+C:\Flavio\Projetos\ProblemApplication\BO\bin\Debug\EntityFramework.xml
+C:\Flavio\Projetos\ProblemApplication\BO\bin\Debug\Util.dll
+C:\Flavio\Projetos\ProblemApplication\BO\bin\Debug\Util.pdb

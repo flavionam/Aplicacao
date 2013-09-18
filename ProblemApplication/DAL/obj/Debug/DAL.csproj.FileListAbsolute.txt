@@ -1,0 +1,7 @@
+C:\Flavio\Projetos\ProblemApplication\DAL\bin\Debug\DAL.dll
+C:\Flavio\Projetos\ProblemApplication\DAL\bin\Debug\DAL.pdb
+C:\Flavio\Projetos\ProblemApplication\DAL\bin\Debug\EntityFramework.dll
+C:\Flavio\Projetos\ProblemApplication\DAL\bin\Debug\EntityFramework.xml
+C:\Flavio\Projetos\ProblemApplication\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Flavio\Projetos\ProblemApplication\DAL\obj\Debug\DAL.dll
+C:\Flavio\Projetos\ProblemApplication\DAL\obj\Debug\DAL.pdb
